@@ -1,5 +1,5 @@
 # pyWatcher
-pyWatcher is a tool for monitoring
+pyWatcher is a tool to check modifications in files
 
 ## Parameters
 * <code>-d</code> or <code>--directory</code>
